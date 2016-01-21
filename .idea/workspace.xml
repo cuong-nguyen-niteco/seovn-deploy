@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f03881-4afb-4abb-8a42-c0cdd27c5f94" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/images/logo.4b5fe626.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/images/logo.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seovn-deploy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,10 +27,10 @@
         <entry file="file://$PROJECT_DIR$/client/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.36641222">
-              <caret line="16" column="90" selection-start-line="16" selection-start-column="90" selection-end-line="16" selection-end-column="90" />
+              <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
               <folding>
-                <marker date="1453390828015" expanded="true" signature="1231:1384" placeholder="..." />
-                <marker date="1453390828015" expanded="true" signature="1324:1352" placeholder="..." />
+                <marker date="1453391185207" expanded="true" signature="1634:1787" placeholder="..." />
+                <marker date="1453391185207" expanded="true" signature="1727:1755" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -245,10 +242,10 @@
     <entry file="file://$PROJECT_DIR$/client/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36641222">
-          <caret line="16" column="90" selection-start-line="16" selection-start-column="90" selection-end-line="16" selection-end-column="90" />
+          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
           <folding>
-            <marker date="1453390828015" expanded="true" signature="1231:1384" placeholder="..." />
-            <marker date="1453390828015" expanded="true" signature="1324:1352" placeholder="..." />
+            <marker date="1453391185207" expanded="true" signature="1634:1787" placeholder="..." />
+            <marker date="1453391185207" expanded="true" signature="1727:1755" placeholder="..." />
           </folding>
         </state>
       </provider>
